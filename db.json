@@ -36,7 +36,14 @@
       "city": "Vail",
       "resortCity": "Vail",
       "website": "https://www.vail.com/",
-      "resortImage": "https://www.uncovercolorado.com/wp-content/uploads/2019/03/vail-luxury-hotels-four-seasons-resort-winter-1600x800-1-1600x800.jpg"
+      "resortImage": "https://www.uncovercolorado.com/wp-content/uploads/2019/03/vail-luxury-hotels-four-seasons-resort-winter-1600x800-1-1600x800.jpg",
+      "machineGroomed": "35",
+      "runsOpen": "105/128",
+      "liftsOpen": "19/20",
+      "comment": "",
+      "topic": "",
+      "forumImage": "",
+      "dateTimePosted": ""
     },
     {
       "id": 4,
@@ -93,6 +100,12 @@
       "comment": "Thanks for all the replies so far. Looks like I need to do some homework over the Summer.",
       "topic": "Thanks",
       "image": "https://img.search.brave.com/dVpjWn4raWT-rYglyd4uOkfC8Czar5RNe1K75Y1iB64/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9jb3Jl/c2l0ZXMtY2RuLWFk/bS5pbWdpeC5uZXQv/bXBvcmFfbmV3L3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDE2LzA3/L1NraVdvcmRzLmpw/Zz9maXQ9Y3JvcA"
+    },
+    {
+      "comment": "I had a great time last weekend in Vail",
+      "topic": "Ski",
+      "image": "https://images.pexels.com/photos/47356/freerider-skiing-ski-sports-47356.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "id": "FL6ztCC"
     }
   ]
 }
