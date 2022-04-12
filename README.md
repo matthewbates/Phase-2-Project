@@ -9,7 +9,7 @@
 ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=plastic&logo=codewars&logoColor=grey)
 
 ## Learning Goals
--build a React single page application from scratch
--apply your knowledge of components, props and state management
--incorporate client-side routing
--use data from an API
+- Build a React single page application from scratch
+- Apply your knowledge of components, props and state management
+- Incorporate client-side routing
+- Use data from an API
